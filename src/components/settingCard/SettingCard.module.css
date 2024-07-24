@@ -1,0 +1,11 @@
+.card {
+    background-color: var(--mantine-color-body);
+  }
+  
+  
+  .switch {
+    & * {
+      cursor: pointer;
+    }
+  }
+
